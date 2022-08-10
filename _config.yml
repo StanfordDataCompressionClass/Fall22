@@ -3,7 +3,7 @@ course_name: "Data Compression: Theory and Applications"
 course_description: ""
 course_semester: "Fall 2022-23"
 
-baseurl: 'Fall22' #"/EE274" # the subpath of your site, e.g. /blog/
+baseurl: '/Fall22' #"/EE274" # the subpath of your site, e.g. /blog/
 url: "http:stanforddatacompressionclass.github.io/" #"http://tpulkit.github.io/" # the base hostname & protocol for your site
 
 #schoolname: "Stanford University"

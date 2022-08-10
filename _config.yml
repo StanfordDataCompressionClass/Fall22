@@ -1,5 +1,5 @@
 # Site settings
-course_name: "Data Compression: Theory and Applications"
+course_name: "EE 274: Data Compression, Theory and Applications"
 course_description: ""
 course_semester: "Fall 2022-23"
 
@@ -41,7 +41,7 @@ collections:
     assignments:
         output: true
     announcements:
-        output: false
+        output: true
 
 
 defaults:

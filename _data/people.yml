@@ -1,0 +1,15 @@
+instructors:
+  - name: Kedar Tatwawadi
+    profile_pic: /_images/pp/kedar.jpg
+    webpage: https://www.linkedin.com/in/kedar-tatwawadi-6914981b/
+  - name: Shubham Chandak
+    profile_pic: /_images/pp/shubham.jpg
+    webpage: https://shubhamchandak94.github.io
+  - name: Tsachy Weissman
+    profile_pic: /_images/pp/tsachy.jpg
+    webpage: https://web.stanford.edu/~tsachy/
+
+teaching_assistants:
+  - name: Pulkit Tandon
+    profile_pic: /_images/pp/pulkit.jpg
+    webpage: https://www.linkedin.com/in/pulkit-tandon-8621a3a8/

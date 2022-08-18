@@ -13,7 +13,7 @@ The amount of data being stored and transferred by humanity is growing exponenti
  A crucial element of the course is learning through doing - the students will work on a pedagogical data compression 
  library and implement specific compression techniques. 
  
- ## Course contents
+The course structure is as follows
  1. **Part I: Lossless compression fundamentals**: The first part of the course introduces fundamental techniques for entropy 
  coding and for lossless compression, and the intuition behind why these techniques work. We will also discuss how the commonly used everyday tools such as `GZIP, BZIP2` work.
  2. **Part II: Lossy compression** The second part covers fundamental teqchniques from the area of lossy compression. Special focus will be on understanding current image and video coding techniques such as `JPEG, BPG, H264, H265`. We will also discuss recent advances in the field of using machine learning  for image/video compression. 

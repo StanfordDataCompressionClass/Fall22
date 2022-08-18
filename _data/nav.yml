@@ -3,7 +3,7 @@ items:
   name: Home
   icon_class: fa fa-home fa-lg
 
-- url: /schedule/
+- url: /logistics/
  name: Logistics
  icon_class: fas fa-calendar-alt
 #

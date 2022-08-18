@@ -5,27 +5,19 @@ layout: home
 The amount of data being stored and transferred by humanity is growing exponentially,
  with 10s of zettabytes (1 zettabyte = 1 trillion gigabytes) being generated every year. 
  Data compression, the field dedicated to representing information in a compact manner, 
- plays a critical role in enabling this scale. 
- Since Shannon described the foundations of data compression in his seminal 1948 paper, 
- there have been several theoretical and practical breakthroughs. 
- Progress in storage and communication technologies has led to increasing capacities, 
+ plays a critical role in enabling this scale.  Progress in storage and communication technologies has led to increasing capacities, 
  but there is a perpetual cat and mouse chase between growing capacity and the amount of data 
  required by new technologies. 
- Compression remains a vibrant area of research fueled by the constant flow of new types of information sources
- such as genomic, multimedia, sensor, AR/VR 3D point clouds, and astronomic, to name a few. Moreover, 
- recent research in compression has focused on utilizing the diverse computational resources ranging from IoT devices 
- to GPUs running deep neural nets. Another active area of research includes novel modes of compression, 
- including computation on compressed data, random access capabilities and compression in hardware. 
- The aim of this course is to provide an introduction to foundations of data compression while at the same time 
- providing exposure to the recent advances in this field.
-
- Throughout the course, both theoretical and practical aspects of compression will be covered, with equal emphasis. 
+ 
+ We are all painfully aware of this conundrum as we run out of space on our phones due to the thousands of selfies, boomerang videos and documents we collect. In this course our goal is to understand how the field of data compression enables us represent all of this information in a succinct manner. Throughout the course, both theoretical and practical aspects of compression will be covered, with equal emphasis. 
  A crucial element of the course is learning through doing - the students will work on a pedagogical data compression 
- library and implement specific compression techniques. The first part of the course introduces techniques for entropy 
- coding and for lossless compression. The second part covers lossy compression including techniques
- for image and video compression. The last part of the course will cover advanced theoretical topics and application 
- domains, depending on available time and student interest, along with guest lectures from experts in the area. 
- Requisite information theory background will be covered as needed. Some of the topics will include case studies 
- into specific domains such as genomics and neural network model compression. 
+ library and implement specific compression techniques. 
+ 
+ ## Course contents
+ 1. **Part I: Lossless compression fundamentals**: The first part of the course introduces fundamental techniques for entropy 
+ coding and for lossless compression, and the intuition behind why these techniques work. We will also discuss how the commonly used everyday tools such as `GZIP, BZIP2` work.
+ 2. **Part II: Lossy compression** The second part covers fundamental teqchniques from the area of lossy compression. Special focus will be on understanding current image and video coding techniques such as `JPEG, BPG, H264, H265`. We will also discuss recent advances in the field of using machine learning  for image/video compression. 
+ 3. **Part III: Special topics** The third part of the course focuses on providing exposure to the students to advanced theoretical topics and recent research advances in the field of compression. The topics will be decided based on student interest. Some topics of interest are: distributed compression, succinct data structures, computation & random access on compressed data, image/video compression for perceptual quality.
 
-[//]: # (Register to our [Google groups page]&#40;https://groups.google.com/forum/#!forum/gp-id&#41; to get course notifications via email.)
+
+![opening-illustration-for-this-feature-article](https://user-images.githubusercontent.com/1708665/185475179-4f3b8eb4-e12d-4a6a-9b4b-b7bd15a47e06.jpg)

@@ -4,9 +4,9 @@ items:
   icon_class: fa fa-home fa-lg
 
 - url: /logistics/
- name: Logistics
- icon_class: fas fa-calendar-alt
-#
+  name: Logistics
+  icon_class: fas fa-calendar-alt
+
 #- url: /lectures/
 #  name: Lectures
 #  icon_class: fas fa-book-reader

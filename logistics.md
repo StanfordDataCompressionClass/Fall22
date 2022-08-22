@@ -3,31 +3,50 @@ layout: page
 title: Course Logistics
 permalink: /logistics/
 ---
+## Instructors
+- Kedar Tatwawadi 
+    - Research Scientist at WaveOne, Inc.
+    - kedart [AT] stanford [DOT] edu
+- Shubham Chandak 
+    - Applied Scientist at Amazon Web Services
+    - schandak [AT] stanford [DOT] edu
+- Prof. Tsachy Weissman 
+    - Electrical Engineering, Stanford
+    - tsachy [AT] stanford [DOT] edu
 
 ## Lectures
 - [Link to explore courses](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=EE274&collapse=)
-- **Date & Time:** Biweekly lectures `Tue, Thu 4:30 PM - 5:50 PM`
-- **Location**: [STLC118](http://campus-map.stanford.edu/?srch=STLC+118) (location may change)
+- **Date & Time:** Biweekly in-person lectures `Tue, Thu 4:30 PM - 5:50 PM`
+- **Location**: [STLC118](http://campus-map.stanford.edu/?srch=STLC+118) (location subject to change)
 
-## Assignments, exams, grading
-(subject to change)
-- `3 units`,  Audit with instructor permission
-- The course will consist of `3` assignments, midterm exam and a final project. 
 
-## Course Outline
-(subject to change)
+## Course elements and grading (tentative)
+EE 274 is a `3 unit` course - auditing allowed with instructor permission. The graded course elements include:
+
+- `3` assignments with both theoretical and programming components
+- midterm exam
+- final project. 
+
+## Prerequisites
+Basic probability and programming background (EE178, CS106B or equivalent), or instructor’s permission. Information theory (EE 276) is NOT a prerequisite and the relevant background will be covered in class.
+
+## Textbook
+There is no required textbook, lecture notes and slides will be provided as relevant. 
+We might provide references to textbooks from time to time for additional reading.
+
+## Course Outline (tentative)
 **Lossless Compression Basics**
 - Introduction to data compression, prefix-free codes
 - Construction of generic prefix-free codes, Kraft Inequality
-- Info-theory basics, prefix free fundamental limits
+- Information theory basics, fundamental limits on compression
 - Huffman coding, practical prefix-free codes
 - Arithmetic coding, adaptive arithmetic coding
 - Asymmetric Numeral Systems, rANS/tANS compressors
 
 **Universal lossless compression**
 - Asymptotic Equipartition theory
-- Non-iid data, Entropy rate, context-based Arithmetic coder
-- Universal lossless compression, Lempel-Ziv 77/78 schemes
+- Non-iid data compression, Entropy rate, context-based Arithmetic coder
+- Universal lossless compression, Lempel-Ziv (LZ) 77/78 schemes
 - Case Study: `GZIP`, how to implement LZ-based schemes in practice
 
 **Lossy Compression fundamentals**
@@ -44,10 +63,10 @@ permalink: /logistics/
 **Special Topics**
 (based on interest and time) 
 - Succinct data structures, compression of data structures in the RAM
-- Burrows-Wheeler's transform, `
+- Burrows-Wheeler transform
 - Lossy compression and denoising
 - Distributed compression, practical applications
-- compression of neural network models
+- Compression of neural network models
 
 
 

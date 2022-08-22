@@ -19,5 +19,6 @@ The course structure is as follows
  2. **Part II: Lossy compression** The second part covers fundamental teqchniques from the area of lossy compression. Special focus will be on understanding current image and video coding techniques such as `JPEG, BPG, H264, H265`. We will also discuss recent advances in the field of using machine learning  for image/video compression. 
  3. **Part III: Special topics** The third part of the course focuses on providing exposure to the students to advanced theoretical topics and recent research advances in the field of compression. The topics will be decided based on student interest. Some topics of interest are: distributed compression, succinct data structures, computation & random access on compressed data, image/video compression for perceptual quality.
 
+The course is suitable for both undergraduate and graduate students with basic probability and programming background. Please contact us if you are not sure if the course is for you!
 
 ![1489772491_pied_piper___silicon_valley_wallpaper_by_famous1994-d8wth3j](https://user-images.githubusercontent.com/1708665/185853569-958e8147-8b0a-4ab3-8657-1f8a83510b17.jpg)

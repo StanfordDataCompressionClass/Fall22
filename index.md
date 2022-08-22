@@ -20,4 +20,4 @@ The course structure is as follows
  3. **Part III: Special topics** The third part of the course focuses on providing exposure to the students to advanced theoretical topics and recent research advances in the field of compression. The topics will be decided based on student interest. Some topics of interest are: distributed compression, succinct data structures, computation & random access on compressed data, image/video compression for perceptual quality.
 
 
-![opening-illustration-for-this-feature-article](https://user-images.githubusercontent.com/1708665/185475179-4f3b8eb4-e12d-4a6a-9b4b-b7bd15a47e06.jpg)
+![1489772491_pied_piper___silicon_valley_wallpaper_by_famous1994-d8wth3j](https://user-images.githubusercontent.com/1708665/185853569-958e8147-8b0a-4ab3-8657-1f8a83510b17.jpg)

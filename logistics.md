@@ -4,17 +4,17 @@ title: Course Logistics
 permalink: /logistics/
 ---
 
-### Lectures
+## Lectures
 - [Link to explore courses](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=EE274&collapse=)
 - **Date & Time:** Biweekly lectures `Tue, Thu 4:30 PM - 5:50 PM`
 - **Location**: [STLC118](http://campus-map.stanford.edu/?srch=STLC+118) (location may change)
 
-### Assignments, exams, grading
+## Assignments, exams, grading
 (subject to change)
 - `3 units`,  Audit with instructor permission
 - The course will consist of `3` assignments, midterm exam and a final project. 
 
-### Course Outline
+## Course Outline
 (subject to change)
 **Lossless Compression Basics**
 - Introduction to data compression, prefix-free codes

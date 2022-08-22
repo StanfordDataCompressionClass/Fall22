@@ -28,7 +28,7 @@ EE 274 is a `3 unit` course - auditing allowed with instructor permission. The g
 - final project. 
 
 ## Prerequisites
-Basic probability and programming background (EE178, CS106B or equivalent), or instructor’s permission. Information theory (EE 276) is NOT a prerequisite and the relevant background will be covered in class.
+Basic probability and programming background (EE178, CS106B or equivalent), or instructor’s permission. Background in statistical signal processing (EE278) and in information theory (EE276) may be helpful for appreciating some of the material, but is not assumed and the relevant background will be covered in class. Some of the final projects will be tailored to the students' backgrounds. 
 
 ## Textbook
 There is no required textbook, lecture notes and slides will be provided as relevant. 

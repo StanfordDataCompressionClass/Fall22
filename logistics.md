@@ -3,6 +3,9 @@ layout: page
 title: Course Logistics
 permalink: /logistics/
 ---
+## Contact
+Please contact us on the staff mailing list with any questions: ee274-aut2223-staff [AT] lists.stanford [DOT] edu
+
 ## Instructors
 - Kedar Tatwawadi 
     - Research Scientist at WaveOne, Inc.

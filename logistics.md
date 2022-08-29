@@ -36,7 +36,7 @@ Basic probability and programming background (EE178, CS106B or equivalent), or i
 ## Textbook
 There is no required textbook, lecture notes and slides will be provided as relevant. 
 We might provide references to textbooks from time to time for additional reading.
-
+***
 ## Course Outline (tentative)
 **Lossless Compression Basics**
 - Introduction to data compression, prefix-free codes

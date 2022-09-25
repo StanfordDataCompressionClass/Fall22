@@ -4,25 +4,26 @@ title: Course Logistics
 permalink: /logistics/
 ---
 ## Contact
-Please contact us on the staff mailing list with any questions: ee274-aut2223-staff [AT] lists.stanford [DOT] edu
+Please contact us on the staff mailing list with any questions: ee274-aut2223-staff [AT] lists.stanford [DOT] edu, or by
+making a private post on ED for registered students.
 
 ## Course Staff
 - **Kedar Tatwawadi** 
     - Research Scientist at WaveOne, Inc.
     - kedart [AT] stanford [DOT] edu
-    - **Office hours:** Thursdays 6:00-7:00pm, STLC 118
+    - **Office hours:** `Thursdays 6:00-7:00pm, STLC 118`
 - **Shubham Chandak** 
     - Applied Scientist at Amazon Web Services
     - schandak [AT] stanford [DOT] edu
-    - **Office hours:** Tuesdays 6:00-7:00pm, STLC 118
+    - **Office hours:** `Tuesdays 6:00-7:00pm, STLC 118`
 - **Prof. Tsachy Weissman** 
     - Electrical Engineering, Stanford
     - tsachy [AT] stanford [DOT] edu
-    - **Office hours:** Fridays 1:00-2:00pm, Packard 259
+    - **Office hours:** `Fridays 1:00-2:00pm, Packard 259`
 - **Pulkit Tandon**
   - Electrial Engineering, Stanford
   - tpulkit [AT] stanford [DOT] edu
-  - **Office hours:** Wednesdays 11:00am-12:30pm, Packard 106
+  - **Office hours:** `Wednesdays 11:00am-12:30pm, Packard 106`
 
 
 ## Lectures

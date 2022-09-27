@@ -41,9 +41,9 @@ EE 274 is a `3 unit` course - auditing allowed with instructor permission. The g
 - final project (`30%`)
 - [bonus] participation in the course (`5%`)
 
-## Useful Links 
-
+## Useful Links
 - [Stanford Compression Library](https://github.com/kedartatwawadi/stanford_compression_library) (a collection of compression algorithms implemented in Python)
+- [Lecture Notes](https://stanforddatacompressionclass.github.io/notes/contents.html) (for the course notes)
 - [ED](https://edstem.org/us/courses/29704/discussion/) (for course Q&A, discussions and announcements)
 - [Gradescope](https://www.gradescope.com/courses/436519) (for quizzes and assignment submissions)
 - [IT Forum](https://web.stanford.edu/group/it-forum/talks/) (for talks on various topics related to compression)

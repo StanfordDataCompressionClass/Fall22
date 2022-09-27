@@ -19,7 +19,7 @@ making a private post on ED for registered students.
 - **Prof. Tsachy Weissman** 
     - Electrical Engineering, Stanford
     - tsachy [AT] stanford [DOT] edu
-    - **Office hours:** `Fridays 1:00-2:00pm, Packard 259`
+    - **Office hours:** `Fridays 1:00-2:00pm, Packard 256`
 - **Pulkit Tandon**
   - Electrial Engineering, Stanford
   - tpulkit [AT] stanford [DOT] edu

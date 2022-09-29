@@ -7,8 +7,10 @@ hide_from_announcments: false
 links: 
     - url: https://stanforddatacompressionclass.github.io/notes/lossless_iid/intro.html
       name: notes
+    - url: /static_files/L1_slide_Tsachy.pdf
+      name: slides-part-1
     - url: /static_files/L1_slide.pdf
-      name: slides
+      name: slides-part-2
     - url: https://drive.google.com/file/d/13m0g8owPFrt2UWY6FotD5lzmBf0X6klF/view?usp=sharing
       name: video-part-1
     - url: https://drive.google.com/file/d/12YL_5Y9hjutiRdolOQzBAOGDDdbEuAdG/view?usp=sharing

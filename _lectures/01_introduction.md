@@ -9,7 +9,7 @@ links:
       name: notes
     - url: /static_files/L1_slide.pdf
       name: slides
-    - url: https://drive.google.com/file/d/12Z7iw0Y7vizX5_aeF4Nv86ZeTYKZwXYp/view?usp=sharing
+    - url: https://drive.google.com/file/d/13m0g8owPFrt2UWY6FotD5lzmBf0X6klF/view?usp=sharing
       name: video-part-1
     - url: https://drive.google.com/file/d/12YL_5Y9hjutiRdolOQzBAOGDDdbEuAdG/view?usp=sharing
       name: video-part-2

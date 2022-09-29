@@ -11,7 +11,7 @@ links:
       name: slides
     - url: https://drive.google.com/file/d/12Z7iw0Y7vizX5_aeF4Nv86ZeTYKZwXYp/view?usp=sharing
       name: video-part-1
-    - url: https://drive.google.com/file/d/12Z7iw0Y7vizX5_aeF4Nv86ZeTYKZwXYp/view?usp=sharing
+    - url: https://drive.google.com/file/d/12YL_5Y9hjutiRdolOQzBAOGDDdbEuAdG/view?usp=sharing
       name: video-part-2
 
 ---

@@ -46,7 +46,7 @@ EE 274 is a `3 unit` course - auditing allowed with instructor permission. The g
 - [Lecture Notes](https://stanforddatacompressionclass.github.io/notes/contents.html) (for the course notes)
 - [ED](https://edstem.org/us/courses/29704/discussion/) (for course Q&A, discussions and announcements)
 - [Gradescope](https://www.gradescope.com/courses/436519) (for quizzes and assignment submissions)
-- [Video Lecture Recordings](https://drive.google.com/drive/folders/12UYKAiNHKF9XVrpWLpiQrhyvuSJijgXI?usp=sharing)
+- [Video Lecture Recordings](https://drive.google.com/drive/folders/12UYKAiNHKF9XVrpWLpiQrhyvuSJijgXI?usp=sharing) (for the course lectures video recordings)
 - [IT Forum](https://web.stanford.edu/group/it-forum/talks/) (for talks on various topics related to compression)
 
 ## Prerequisites

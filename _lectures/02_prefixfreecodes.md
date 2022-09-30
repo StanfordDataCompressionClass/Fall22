@@ -1,7 +1,8 @@
 ---
 type: lecture
-date: 2022-09-27
-title: Lecture 2
+
+[//]: # (date: 2022-09-29)
+title: Lecture 2 [2022-09-29]
 tldr: "Prefix Free Codes"
 hide_from_announcments: false
 links: 

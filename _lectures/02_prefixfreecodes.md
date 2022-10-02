@@ -10,6 +10,6 @@ links:
       name: Prefix Free Codes notes
     - url: https://stanforddatacompressionclass.github.io/notes/lossless_iid/kraft_ineq_and_optimality.html
       name: Kraft Inequality notes
-    - url: https://drive.google.com/file/d/15zjgLlxfPI2iw0mknRSnlw8HBPZDXWr5/view?usp=sharing
+    - url: https://www.youtube.com/watch?v=zjL_0q-AsoQ&list=PLv_7iO_xlL0Jgc35Pqn7XP5VTQ5krLMOl&index=3
       name: video
 ---

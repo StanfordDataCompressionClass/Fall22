@@ -12,9 +12,9 @@ links:
       name: slides-part-1
     - url: /static_files/L1_slide.pdf
       name: slides-part-2
-    - url: https://drive.google.com/file/d/13m0g8owPFrt2UWY6FotD5lzmBf0X6klF/view?usp=sharing
+    - url: https://www.youtube.com/watch?v=JFVlAIjHo2c&list=PLv_7iO_xlL0Jgc35Pqn7XP5VTQ5krLMOl&index=1
       name: video-part-1
-    - url: https://drive.google.com/file/d/12YL_5Y9hjutiRdolOQzBAOGDDdbEuAdG/view?usp=sharing
+    - url: https://www.youtube.com/watch?v=HT9NcTNXdnE&list=PLv_7iO_xlL0Jgc35Pqn7XP5VTQ5krLMOl&index=2
       name: video-part-2
 
 ---

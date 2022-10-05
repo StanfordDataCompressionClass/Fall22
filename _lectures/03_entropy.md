@@ -10,8 +10,6 @@ links:
       name: slides
     - url: https://stanforddatacompressionclass.github.io/notes/lossless_iid/entropy.html
       name: Entropy notes
-
-[//]: # (    - url: https://www.youtube.com/watch?v=zjL_0q-AsoQ&list=PLv_7iO_xlL0Jgc35Pqn7XP5VTQ5krLMOl&index=3)
-
-[//]: # (      name: video)
+    - url: https://www.youtube.com/watch?v=UvIJhNHJ5dk&list=PLv_7iO_xlL0Jgc35Pqn7XP5VTQ5krLMOl&index=4
+      name: video
 ---

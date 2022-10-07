@@ -5,8 +5,9 @@ type: lecture
 title: Lecture 4 [2022-10-07]
 tldr: "Huffman Codes"
 hide_from_announcments: false
-links: 
-
+links:
+    - url: https://www.youtube.com/watch?v=cUYZ_yinHqg&list=PLv_7iO_xlL0Jgc35Pqn7XP5VTQ5krLMOl&index=5&t=1s
+      name: video
 [//]: # (    - url: /static_files/L3_slide.pdf)
 
 [//]: # (      name: slides)
@@ -14,6 +15,4 @@ links:
 [//]: # (    - url: https://stanforddatacompressionclass.github.io/notes/lossless_iid/entropy.html)
 
 [//]: # (      name: Entropy notes)
-    - url: https://www.youtube.com/watch?v=cUYZ_yinHqg&list=PLv_7iO_xlL0Jgc35Pqn7XP5VTQ5krLMOl&index=5&t=1s
-      name: video
 ---

@@ -14,7 +14,7 @@ link: https://stanforddatacompressionclass.github.io/notes/homeworks/HW0.html
 [//]: # (pdf: /static_files/assignments/asg.pdf)
 [//]: # (attachment: /static_files/assignments/asg.zip)
 [//]: # (solutions: /static_files/assignments/asg_solutions.pdf)
-hide_from_announcments: False
+hide_from_announcments: True
 
 [//]: # (due_event:)
 

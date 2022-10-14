@@ -10,6 +10,6 @@ links:
       name: slides
     - url: https://stanforddatacompressionclass.github.io/notes/lossless_iid/aep.html
       name: AEP notes
-    - url: https://www.youtube.com/watch?v=ysnF9JR5d_g&list=PLv_7iO_xlL0Jgc35Pqn7XP5VTQ5krLMOl&index=6
+    - url: https://www.youtube.com/watch?v=hgFEXFAIti8&list=PLv_7iO_xlL0Jgc35Pqn7XP5VTQ5krLMOl&index=1
       name: video
 ---

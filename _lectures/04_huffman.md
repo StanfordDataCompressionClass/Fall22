@@ -4,7 +4,7 @@ type: lecture
 [//]: # (date: 2022-09-29)
 title: Lecture 4 [2022-10-07]
 tldr: "Huffman Codes"
-hide_from_announcments: false
+hide_from_announcments: true
 links:
     - url: /static_files/L4_slide.pdf
       name: slides

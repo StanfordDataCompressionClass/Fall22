@@ -4,7 +4,7 @@ type: lecture
 [//]: # (date: 2022-09-29)
 title: Lecture 5 [2022-10-11]
 tldr: "Asymptotic Equipartition Property"
-hide_from_announcments: false
+hide_from_announcments: true
 links:
     - url: /static_files/L5_slide.pdf 
       name: slides

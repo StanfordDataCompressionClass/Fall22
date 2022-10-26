@@ -12,4 +12,6 @@ links:
       name: AEP notes
     - url: https://www.youtube.com/watch?v=hgFEXFAIti8&list=PLv_7iO_xlL0Jgc35Pqn7XP5VTQ5krLMOl&index=1
       name: video
+    - url: https://github.com/kedartatwawadi/stanford_compression_library/blob/main/compressors/typical_set_coder.py
+      name: Typical Set coder
 ---

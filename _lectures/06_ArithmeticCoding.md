@@ -10,10 +10,10 @@ links:
       name: slides
     - url: https://www.youtube.com/watch?v=_pn9LXPOhrU&list=PLv_7iO_xlL0Jgc35Pqn7XP5VTQ5krLMOl&index=2
       name: video
+    - url: https://github.com/kedartatwawadi/stanford_compression_library/blob/main/compressors/arithmetic_coding.py
+      name: Arithmetic Entropy Coder code
 ---
-[//]: # (    - url: https://stanforddatacompressionclass.github.io/notes/lossless_iid/aep.html)
 
-[//]: # (      name: AEP notes)
 
 
 

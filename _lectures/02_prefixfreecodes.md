@@ -12,4 +12,6 @@ links:
       name: Kraft Inequality notes
     - url: https://www.youtube.com/watch?v=zjL_0q-AsoQ&list=PLv_7iO_xlL0Jgc35Pqn7XP5VTQ5krLMOl&index=3
       name: video
+    - url: https://github.com/kedartatwawadi/stanford_compression_library/blob/main/compressors/prefix_free_compressors.py
+      name: Prefix-free Compressor code
 ---

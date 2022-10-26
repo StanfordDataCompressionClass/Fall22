@@ -6,7 +6,7 @@ title: 'HW1'
 due: '10/21/2022, 23:59:00 PT'
 link: https://stanforddatacompressionclass.github.io/notes/homeworks/HW1.html
 sol_link: https://stanforddatacompressionclass.github.io/notes/homeworks/HW1_sol.html
-hide_from_announcments: False
+hide_from_announcments: True
 
 [//]: # (due_event:)
 

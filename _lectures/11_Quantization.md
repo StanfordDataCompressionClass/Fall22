@@ -10,8 +10,8 @@ links:
       name: video
     - url: https://colab.research.google.com/drive/16dYjBEc499HgHoZRxcyeg0YmNAb5AwAW?usp=sharing
       name: code 
-[//]: # (    - url: /static_files/L11_slide.pdf )
-[//]: # (      name: slides)
+    - url: /static_files/L11_slide.pdf 
+      name: slides
 
 ---
 

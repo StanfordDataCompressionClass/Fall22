@@ -10,10 +10,8 @@ links:
       name: video
     - url: /static_files/L14_slide_Tsachy.pdf
       name: Water-Filling slides
-
-[//]: # (    - url: /static_files/L14_slide_Kedar.pdf)
-
-[//]: # (      name: Image Compression slides)
+    - url: /static_files/L14_slide_Kedar.pdf
+      name: Image Compression slides
 
 [//]: # (    - url: https://stanforddatacompressionclass.github.io/notes/lossy/rd.html)
 

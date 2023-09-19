@@ -4,7 +4,7 @@ type: lecture
 [//]: # (date: 2022-09-29)
 title: Lecture 18 [2022-12-06]
 tldr: "Video Compression"
-hide_from_announcments: false
+hide_from_announcments: true
 links:
     - url: https://youtu.be/wsRAJtCQRUQ
       name: video

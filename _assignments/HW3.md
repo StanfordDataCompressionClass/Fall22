@@ -5,7 +5,7 @@ type: assignment
 title: 'HW3'
 due: '12/11/2022, 23:59:00 PT'
 link: https://stanforddatacompressionclass.github.io/notes/homeworks/HW3.html
-hide_from_announcments: False
+hide_from_announcments: true
 
 [//]: # (due_event:)
 

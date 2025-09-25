@@ -1,7 +1,6 @@
 ---
 type: raw_event
-date: 2023-09-19
-name:  Course Announcement
-description: 'Fall 23 Course Website is up! Please visit https://stanforddatacompressionclass.github.io/Fall23 for more information.'
-hide_from_announcments: false
+name: Course Conclusion
+description: 'This page refers to the Fall 2023 offering of the course. The latest edition of the course can be found here: https://stanforddatacompressionclass.github.io/'
+hide_from_announcments: False
 ---
